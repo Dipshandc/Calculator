@@ -1,0 +1,87 @@
+.cal-body{
+    margin-top: 40px;
+    width: 400px;
+    height: 605px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:dimgray;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(37, 37, 37);
+}
+h1{
+    margin: 10px;
+    text-align: center;
+    color: beige;
+}
+#display{
+    background-color: black;
+    width:390px;
+    height:75px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: aliceblue;
+    margin: 5px;
+    width: 82px;
+    height: 82px;
+    border-radius: 10px;
+    text-decoration: none;
+    border-style: none;
+    font-weight:lighter;
+    font-size: larger;
+    box-shadow: 0 3px black;
+}
+.btn:hover{
+    background-color: rgba(240, 248, 255, 0.902);
+}
+.btn-equals:hover{
+    background-color: rgba(66, 255, 66, 0.795);
+
+}
+.btn-c:hover{
+    background-color:#fd3838cb;
+}
+.btn-c{
+    background-color:#fd3838;
+    color: aliceblue;
+    margin: 5px;
+    width: 82px;
+    height: 82px;
+    border-radius: 10px;
+    text-decoration: none;
+    border-style: none;
+    font-weight:lighter;
+    font-size: larger;
+    box-shadow: 0 3px black;
+}
+.btn-equals{
+    background-color: rgb(66, 255, 66);
+    color: aliceblue;
+    margin: 5px;
+    width: 82px;
+    height: 82px;
+    border-radius: 10px;
+    text-decoration: none;
+    border-style: none;
+    font-weight:lighter;
+    font-size: larger;
+    box-shadow: 0 3px black;
+}
+.btn-div{
+    text-align: center;
+}
+#dis-p{
+    color: white;
+    text-align: end;
+    font-size: larger;
+}
+#display-p{
+    color: white;
+    text-align: end;
+    font-size: larger;
+}
