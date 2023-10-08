@@ -10,6 +10,7 @@ resultDis.innerHTML = ""
 function startBracket(){
     calDis.innerHTML += "("
     resultDis.innerHTML = ""
+    resultDis.innerHTML = ""
 }
 function closingBracket(){
     calDis.innerHTML += ")"    
@@ -23,3 +24,4 @@ function forClear(){
     calDis.innerHTML = calDis.innerHTML.substring(0,calDis.innerHTML.length-1)
     resultDis.innerHTML = ""
 }
+
