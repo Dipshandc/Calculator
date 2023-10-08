@@ -1,4 +1,5 @@
-// veriables
+//This is va veriables
+//
 // let calArr =[]
 const calDis = document.getElementById("dis-p")
 const resultDis = document.getElementById("display-p")
